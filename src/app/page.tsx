@@ -9,7 +9,6 @@ import About from '@/components/About';
 import Tools from '@/components/Tools';
 import Experience from '@/components/Experience';
 import Projects from '@/components/Projects';
-import { FaArrowUp } from 'react-icons/fa';
 import Image from 'next/image';
 
 interface HeroSectionProps {
