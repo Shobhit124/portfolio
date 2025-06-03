@@ -210,7 +210,7 @@ export default function Home() {
             </div>
             {/* Links row */}
             <div className="flex flex-wrap justify-center gap-6 md:gap-8 mt-6 md:mt-8 text-base md:text-lg lg:text-xl font-semibold">
-              <a href="/ShobhitChadha_Backend.pdf" target="_blank" rel="noopener noreferrer" className="relative text-yellow-400 hover:text-purple-400 transition-colors focus:outline-none group">
+              <a href="/ShobhitChadha_backend.pdf" target="_blank" rel="noopener noreferrer" className="relative text-yellow-400 hover:text-purple-400 transition-colors focus:outline-none group">
                 My Resume
                 <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-purple-400 transition-all duration-300 group-hover:w-full group-focus:w-full"></span>
               </a>
