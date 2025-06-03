@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { FaCode, FaPalette, FaLightbulb, FaServer } from 'react-icons/fa';
+import { FaCode, FaLightbulb, FaServer } from 'react-icons/fa';
 
 const expertise = [
   {
